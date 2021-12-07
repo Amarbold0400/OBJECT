@@ -1,6 +1,6 @@
 # Tensorflow Объект Танилт
 <br />
-<b>1.</b>Repository-г клон хийнэ үү: https://github.com/Amarbold0400/OBJECT
+<b>1.</b> Repository-г клон хийнэ үү: https://github.com/Amarbold0400/OBJECT
 <br/><br/>
 <b>2.</b> Виртуал орчин дараах заавраар үүсгэнэ үү. 
 <pre>
